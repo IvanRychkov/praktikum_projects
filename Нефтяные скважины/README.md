@@ -14,4 +14,4 @@
 
 ---
 
-**Стек технологий**: *pandas, numpy, scipy, matplotlib, seaborn, scikit-learn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/helpers).
+**Стек технологий**: *pandas, NumPy, SciPy, matplotlib, Seaborn, scikit-learn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/helpers).
