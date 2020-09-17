@@ -20,4 +20,4 @@
    
 ---
 
-**Стек технологий**: *pandas, NumPy, matplotlib, Seaborn, SciPy, scikit-learn, CatBoost, LightGBM, XGBoost*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/helpers).
+**Стек технологий**: *pandas, NumPy, matplotlib, Seaborn, SciPy, scikit-learn, CatBoost, LightGBM, XGBoost*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/toads).
