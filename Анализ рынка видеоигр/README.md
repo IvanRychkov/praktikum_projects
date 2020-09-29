@@ -13,4 +13,4 @@
 
 ---
 
-**Стек технологий**: *pandas, NumPy, SciPy, matplotlib, Seaborn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/helpers).
+**Стек технологий**: *pandas, NumPy, SciPy, matplotlib, Seaborn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/toads).

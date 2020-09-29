@@ -12,4 +12,4 @@
    
 ---
 
-**Стек технологий**: *pandas, NumPy, matplotlib, Seaborn, scikit-learn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/helpers).
+**Стек технологий**: *pandas, NumPy, matplotlib, Seaborn, scikit-learn*. Также использовал собственные [функции-помощники](https://github.com/IvanRychkov/toads).
